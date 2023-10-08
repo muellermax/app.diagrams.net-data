@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T13:37:38.819Z" agent="5.0 (Windows)" etag="Cn5IyXJtQeorMlS_xHJx" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T10:49:50.526Z" agent="5.0 (Windows)" etag="ifwVfKJPIeGCmwYLISR_" version="18.1.3" type="github">
   <diagram id="Zmv_30nIT3G1Nc5Q77fU" name="Page-1">
     <mxGraphModel dx="2222" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="Ts85mT_bDLmugQmWIPTJ-1" value="&lt;div&gt;local file: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Film und Buchtagebuch Tabelle.csv&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="406" y="4" width="126" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="q-jhtlWtcuQimejiOmJV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ts85mT_bDLmugQmWIPTJ-2" target="Ts85mT_bDLmugQmWIPTJ-1">
+        <mxCell id="q-jhtlWtcuQimejiOmJV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ts85mT_bDLmugQmWIPTJ-2" target="Ts85mT_bDLmugQmWIPTJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ts85mT_bDLmugQmWIPTJ-2" value="Manual input" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -57,13 +57,7 @@
         <mxCell id="Ts85mT_bDLmugQmWIPTJ-21" value="movie app:&lt;br&gt;&lt;div&gt;wrangle_data_opera.py&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="181" y="527" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ts85mT_bDLmugQmWIPTJ-23" value="&#xa;&lt;i class=&quot;item_icon running_notebook_icon icon-fixed-width&quot;&gt;&lt;/i&gt;&lt;a class=&quot;item_link&quot; href=&quot;http://localhost:8888/notebooks/01%20Filmprojekt/tmdbmatch.ipynb&quot; target=&quot;_blank&quot;&gt;&lt;span class=&quot;item_name&quot;&gt;tmdbmatch.ipynb&lt;/span&gt;&lt;/a&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-173" y="296.5" width="120" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="Ts85mT_bDLmugQmWIPTJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ts85mT_bDLmugQmWIPTJ-25" target="Ts85mT_bDLmugQmWIPTJ-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QEp2L6PEctv4l-9vnAkM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ts85mT_bDLmugQmWIPTJ-25" target="Ts85mT_bDLmugQmWIPTJ-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMviqgkHkT_ptWmMSh8n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ts85mT_bDLmugQmWIPTJ-25" target="Ts85mT_bDLmugQmWIPTJ-50" edge="1">
@@ -156,7 +150,7 @@
         <mxCell id="QEp2L6PEctv4l-9vnAkM-2" value="&lt;div&gt;local file: &lt;br&gt;&lt;/div&gt;&lt;div&gt;wrangled-data.csv&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="406" y="278" width="126" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="q-jhtlWtcuQimejiOmJV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q-jhtlWtcuQimejiOmJV-2" target="QEp2L6PEctv4l-9vnAkM-1">
+        <mxCell id="q-jhtlWtcuQimejiOmJV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q-jhtlWtcuQimejiOmJV-2" target="QEp2L6PEctv4l-9vnAkM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="651" y="173" />
@@ -164,7 +158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q-jhtlWtcuQimejiOmJV-2" value="wrangling_functions.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q-jhtlWtcuQimejiOmJV-2" value="wrangling_functions.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="100" width="147" height="39" as="geometry" />
         </mxCell>
       </root>
